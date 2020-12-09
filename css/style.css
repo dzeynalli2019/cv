@@ -139,6 +139,11 @@ body {
 .about-text {
   color: white;
   margin: 10px 20px;
+  line-height: 2;
+}
+
+.position {
+  margin: 30px auto;
 }
 
 .contact-info {
